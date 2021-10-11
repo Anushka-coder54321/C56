@@ -1,0 +1,14 @@
+body{
+    background-color:blanchedalmond;
+}
+p{
+    max-width: 700px;
+}
+hr{
+    width: 3000px;
+    height: 4px;
+    background-color:darkolivegreen;
+}
+h1{
+    background-color:aquamarine;
+}
